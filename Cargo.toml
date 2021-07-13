@@ -17,3 +17,6 @@ status = "actively-developed"
 
 [badges.travis-ci]
 repository = "slightlyoutofphase/staticsort"
+
+[features]
+cosort=[]
